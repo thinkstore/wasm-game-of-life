@@ -1,9 +1,9 @@
 ## About
 
 Simple project with Rust and WebAssembly using
-$ cd wasm-game-of-life
-$ wasm-pack build
-$ cd www && npm install && npm run start
+#$ cd wasm-game-of-life
+#$ wasm-pack build
+#$ cd www && npm install && npm run start
 
 then visit "http://localhost:8080/"
 
